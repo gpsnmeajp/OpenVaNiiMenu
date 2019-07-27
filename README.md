@@ -2,8 +2,14 @@
 VaNiiMenuのオープンソース版です。  
 https://sabowl.sakura.ne.jp/gpsnmeajp/unity/vaniimenu/  
   
+
+## 注意
+VaNiiMenu v0.11相当です。  
 スクリプトなどはそのままですが、画像やフォントが差し替わっています。   
   
+今後VaNiiMenuの更新が必ずしも反映されるとは限りません。  
+VaNiiMenuほど動作確認をしっかりしていません。(起動チェックくらいです)
+
 ## ビルド手順
 Unity2017.4.15f1をインストール   
  
