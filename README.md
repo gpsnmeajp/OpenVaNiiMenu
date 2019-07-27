@@ -10,6 +10,10 @@ VaNiiMenu v0.11相当です。
 今後VaNiiMenuの更新が必ずしも反映されるとは限りません。  
 VaNiiMenuほど動作確認をしっかりしていません。(起動チェックくらいです)
 
+フォントはM+ Fontを使えば同じものになります。
+(未導入時に表示がまっさらになるのでArialにしています)
+https://mplus-fonts.osdn.jp/about.html
+
 ## ビルド手順
 Unity2017.4.15f1をインストール   
  
