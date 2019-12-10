@@ -1,9 +1,12 @@
 # OpenVaNiiMenu
-VaNiiMenuのオープンソース版です。  
+**OpenVaNiiMenuはVaNiiMenuのオープンソース版です。**  
+**上級者あるいは開発者向けのものです。**  
+**オープンソース版およびその派生物についてサポート(質問への回答含む)は一切致しません**  
 https://sabowl.sakura.ne.jp/gpsnmeajp/unity/vaniimenu/  
   
 
 ## 注意
+
 VaNiiMenu v0.11相当です。  
 スクリプトなどはそのままですが、画像やフォントが差し替わっています。   
   
