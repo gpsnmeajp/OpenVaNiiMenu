@@ -301,9 +301,9 @@ public class GlobalOnClickManagerScript : MonoBehaviour {
             //---------------------------------------------
 
             case "SettingsPage/DiscordButton":
-                menu.ShowDialogOKCancel(LanguageManager.config.showdialog.OPEN_DISCORD, LanguageManager.config.tutorial.TUTORIAL4_BODY_1 +"https://discord.gg/QSrDhE8"+ LanguageManager.config.tutorial.TUTORIAL4_BODY_2, 0.05f,
+                menu.ShowDialogOKCancel(LanguageManager.config.showdialog.OPEN_DISCORD, LanguageManager.config.tutorial.TUTORIAL4_BODY_1 +"http://example.com"+ LanguageManager.config.tutorial.TUTORIAL4_BODY_2, 0.05f,
                     () => {
-                        Launch.Launch("https://discord.gg/QSrDhE8", "", "");
+                        Launch.Launch("http://example.com", "", "");
                     }, () => { });
 
                 break;

@@ -251,9 +251,9 @@ public class MenuManager : MonoBehaviour {
                     ShowDialogOK(LanguageManager.config.tutorial.TUTORIAL3_TITLE, LanguageManager.config.tutorial.TUTORIAL3_BODY, 0.5f, () =>
                     {
                         //Discord案内
-                        ShowDialogOKCancel(LanguageManager.config.tutorial.TUTORIAL4_TITLE, LanguageManager.config.tutorial.TUTORIAL4_BODY_1+ "https://discord.gg/QSrDhE8" + LanguageManager.config.tutorial.TUTORIAL4_BODY_2, 0.5f, () =>
+                        ShowDialogOKCancel(LanguageManager.config.tutorial.TUTORIAL4_TITLE, LanguageManager.config.tutorial.TUTORIAL4_BODY_1+ "http://example.com" + LanguageManager.config.tutorial.TUTORIAL4_BODY_2, 0.5f, () =>
                         {
-                            Launcher.Launch("https://discord.gg/QSrDhE8", "", "");
+                            Launcher.Launch("http://example.com", "", "");
                             WelcomeStartup();
                         }, () => {
                             WelcomeStartup();
